@@ -1,4 +1,4 @@
-### Todo List Application
+# Todo List Application
 
 This repository contains a simple Todo List application built using React. The application allows users to add, edit, and delete tasks, as well as mark them as completed.
 
